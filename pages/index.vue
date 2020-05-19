@@ -2,6 +2,7 @@
   <b-container fluid>
     <ExampleComponent />
     <GoogleSigninButton />
+    <GoogleFilePicker />
   </b-container>
 </template>
 
@@ -12,7 +13,9 @@ export default {
     ExampleComponent: () =>
       import('~/components/specifics/Home/ExampleComponent.vue'),
     GoogleSigninButton: () =>
-      import('../components/common/Plugin/GoogleSigninButton')
+      import('../components/common/Plugin/GoogleSigninButton'),
+    GoogleFilePicker: () =>
+      import('../components/common/Plugin/GoogleFilePicker')
   },
   created() {
     // Global function and variable from mixins

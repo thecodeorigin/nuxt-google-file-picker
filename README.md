@@ -1,10 +1,14 @@
-# Nuxt with Google sign in example
+# Nuxt with Google Picker example
 
-> A simple project with only one button for Google sign in, take the 3 steps below 
+> A simple project for Google Picker example, take the 3 steps below 
 
 - Create a .env file from the example one and fill it with your credentials
 - Create a app.html file from the example one to add some script tags for Google API stuff
-- You are now good to go, use the GoogleSigninButton.vue as you want, it's the core of this example
+- You are now good to go, use the GoogleFilePicker.vue as you want
+
+There's also the GoogleSigninButton.vue component for Google Signin
+
+Check out https://github.com/thecodeorigin/nuxt-google-auth if you only want the Google Signin feature
 
 Check out https://github.com/thecodeorigin to start your project faster
 

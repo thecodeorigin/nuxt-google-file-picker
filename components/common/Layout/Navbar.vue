@@ -11,18 +11,18 @@
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
         <a
-          href="https://github.com/thecodeorigin/nuxt-google-auth"
+          href="https://github.com/thecodeorigin/nuxt-google-file-picker"
           class="text-light"
           target="blank"
         >
           Github
         </a>
         <a
-          href="https://developers.google.com/identity/sign-in/web"
+          href="https://developers.google.com/picker/docs"
           class="text-light ml-3"
           target="blank"
         >
-          Google's docs
+          Google Picker's docs
         </a>
       </b-navbar-nav>
 

@@ -2,8 +2,8 @@
   "home": {
     "title": "Welcome",
     "lang": "Eng",
-    "introduction": "Nuxt.js Google Singin example.",
-    "navbar": "Google signin example",
+    "introduction": "Nuxt.js Google file picker example.",
+    "navbar": "Google picker example",
     "header": "This is a header",
     "sidebar": "This is a sidebar",
     "footer": "This starter template is made by thecodeorigin.com"

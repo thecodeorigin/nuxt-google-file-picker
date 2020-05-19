@@ -2,8 +2,8 @@
   "home": {
     "title": "Chào mừng",
     "lang": "Việt",
-    "introduction": "Ví dụ đăng nhập bằng Google trong Nuxt.js",
-    "navbar": "Google signin example",
+    "introduction": "Ví dụ chọn ảnh từ Google Drive trong Nuxt.js",
+    "navbar": "Google picker example",
     "header": "Đây là một header",
     "sidebar": "Đây là một sidebar",
     "footer": "Mẫu website này được làm bởi thecodeorigin.com"
