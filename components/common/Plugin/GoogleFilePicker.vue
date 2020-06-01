@@ -46,6 +46,7 @@ export default {
       } else {
         this.createPicker()
       }
+      // this.createPicker()
     },
     createPicker() {
       if (this.pickerApiLoaded && this.$store.state.googleOAuthToken) {
